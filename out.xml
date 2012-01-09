@@ -1,0 +1,19 @@
+<planung>
+  <schule fach="Englisch">
+    <lehrer>Steven Haines</lehrer>
+    <stunden>2</stunden>
+  </schule>
+  <schule fach="Deutsch">
+    <lehrer>Tim LaHaye</lehrer>
+    <stunden>4</stunden>
+  </schule>
+  <schule fach="Mathe">
+    <lehrer>Tim LaHaye</lehrer>
+    <stunden>6</stunden>
+  </schule>
+  <book category="computer-programming">
+    <author>Steven Haines</author>
+    <title>Pro Java EE 5 Performance Management and Optimization</title>
+    <price>49.95</price>
+  </book>
+</planung>
